@@ -1,0 +1,33 @@
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\bin\Debug\Videojuego.exe.config
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\bin\Debug\Videojuego.exe
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\bin\Debug\Videojuego.pdb
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.csproj.AssemblyReference.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.Form1.resources
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.Properties.Resources.resources
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.csproj.GenerateResource.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.exe
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego\obj\Debug\Videojuego.pdb
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.AssemblyReference.cache
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.exe
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.pdb
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\bin\Debug\Videojuego.exe.config
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\bin\Debug\Videojuego.exe
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\bin\Debug\Videojuego.pdb
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.Form1.resources
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.Properties.Resources.resources
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.GenerateResource.cache
+C:\Users\gabon\Downloads\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\bin\Debug\Videojuego.exe.config
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\bin\Debug\Videojuego.exe
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\bin\Debug\Videojuego.pdb
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.AssemblyReference.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.Form1.resources
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.Properties.Resources.resources
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.GenerateResource.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.exe
+C:\Users\gabon\OneDrive\Escritorio\Gabo 6° MAS\Computación VI\Videojuego.1\Videojuego\obj\Debug\Videojuego.pdb
